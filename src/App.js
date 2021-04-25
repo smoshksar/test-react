@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Hello React Application ;)
+         Hello React Application
+        </p>
+        <p>
+         New changes ...
         </p>
       </header>
     </div>
